@@ -1,8 +1,6 @@
 <div align="center">
 
-# YThome123
-
-### CyberSecurity & GameDev
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=I'm+YThome123;Cybersecurity+Enthusiast;Game+Developer;Minecraft+Plugin+Developer;Learning+Python)](https://git.io/typing-svg)
 
 [![Followers](https://img.shields.io/github/followers/YThome123?style=for-the-badge&logo=github&label=Followers)](https://github.com/YThome123?tab=followers)
 [![Stars](https://img.shields.io/github/stars/YThome123?style=for-the-badge&logo=github&label=Stars)](https://github.com/YThome123?tab=repositories)
@@ -15,9 +13,9 @@
 ## 💡 About Me
 
 - 🛡️ Exploring cybersecurity and ethical hacking
-- 🎮 Minecraft plugins, clients and Roblox game development
+- 🎮 Developing Minecraft plugins, clients and Roblox games
 - 🐍 Learning Python and improving my coding skills
-- 🤖 Interested in automation and development tools
+- 🧰 Interested in automation and developer tools
 - 🚀 Building projects under **NeiroDev**
 
 ## 🛠️ Languages & Tools
