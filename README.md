@@ -1,28 +1,24 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+YThome123!;NeiroDev+Developer;AI+%26+Vibe+Coding;Building+Ideas+into+Reality)](https://git.io/typing-svg)
+# YThome123
+
+### CyberSecurity & GameDev
+
+[![Followers](https://img.shields.io/github/followers/YThome123?style=for-the-badge&logo=github&label=Followers)](https://github.com/YThome123?tab=followers)
+[![Stars](https://img.shields.io/github/stars/YThome123?style=for-the-badge&logo=github&label=Stars)](https://github.com/YThome123?tab=repositories)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYThome123&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github)](https://github.com/YThome123?tab=repositories)
 
 </div>
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/YThome123?style=for-the-badge&logo=github)](https://github.com/YThome123?tab=followers)
-[![Stars](https://img.shields.io/github/stars/YThome123?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/YThome123?tab=repositories)
-[![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYThome123&logo=github)](https://github.com/YThome123?tab=repositories)
-
-</div>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YThome123&theme=github-dark)
 
 ---
 
 ## 💡 About Me
 
-- 🚀 Building projects under **NeiroDev**
-- 🤖 Interested in AI, vibe coding and automation
+- 🛡️ Exploring cybersecurity and ethical hacking
 - 🎮 Minecraft plugins, clients and Roblox game development
-- 🐍 Learning Python and exploring ethical cybersecurity
-- 🛠️ Turning ideas into useful tools and applications
+- 🐍 Learning Python and improving my coding skills
+- 🤖 Interested in automation and development tools
+- 🚀 Building projects under **NeiroDev**
 
 ## 🛠️ Languages & Tools
 
@@ -33,28 +29,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YThome123/YThome123/output/github-contribution-grid-snake-dark.svg">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/YThome123/YThome123/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YThome123&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YThome123&layout=compact&theme=github_dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YThome123/YThome123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YThome123/YThome123/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YThome123/YThome123/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 🤝 Contributing
 
-I enjoy experimenting, learning and building projects. Suggestions, bug reports and contributions are welcome!
+Always learning, experimenting and building. Suggestions, bug reports and contributions are welcome!
 
 ⭐ If you find something useful, consider leaving a star.
-
